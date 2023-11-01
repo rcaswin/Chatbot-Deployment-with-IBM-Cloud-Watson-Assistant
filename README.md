@@ -8,9 +8,10 @@
   2. Features
   3. Installtion
   4. Built with
-  5. Output of Integration of the chatbot with website, whatsapp, slack.
-  6. License
-  7. References
+  5. Architecture
+  6. Output of Integration of the chatbot with website, whatsapp, slack.
+  7. License
+  8. References
      
 ##Features
   The main feature of this chatbot is to provide the required resources for the students. Now I have designed this chatbot which can be used by IT / CS students.
@@ -22,6 +23,10 @@
 ##Built with
  This chatbot is mainly built by using IBM Cloud Watson Assistant. I have been testing this with whatsapp and slack.
  Soon this chatbot will be published through whatsapp or other popular messaging platforms which can be easily accessed by everyone.
+
+##Architecture
+    ![architecture](https://github.com/rcaswin/Chatbot-Deployment-with-IBM-Cloud-Watson-Assistant/assets/130204954/cb5ee7c0-a532-4eec-8797-d1296b532eee)
+
 
 ##Output of Integration of the chatbot with website, whatsapp, slack
   1. Website
