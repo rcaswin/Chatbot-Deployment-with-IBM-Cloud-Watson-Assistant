@@ -29,7 +29,7 @@
 
 ##Architecture
 
-    ![architecture](https://github.com/rcaswin/Chatbot-Deployment-with-IBM-Cloud-Watson-Assistant/assets/130204954/cb5ee7c0-a532-4eec-8797-d1296b532eee)
+  ![architecture](https://github.com/rcaswin/Chatbot-Deployment-with-IBM-Cloud-Watson-Assistant/assets/130204954/276de801-9fbc-49bd-af23-1f83029bc64e)
 
 
 ##Output of Integration of the chatbot with website, whatsapp, slack
