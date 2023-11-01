@@ -35,8 +35,9 @@
      ![slack2](https://github.com/rcaswin/Chatbot-Deployment-with-IBM-Cloud-Watson-Assistant/assets/130204954/94c9c9e8-b84b-4cda-845d-0bb9ff8afb6e)
 
 ##License
-  This project is licensed under the MIT License - see the [LICENSE.txt](https://github.com/rcaswin/Chatbot-Deployment-with-IBM-Cloud-Watson-Assistant/files/13229814/LICENSE.txt)
- file for more details.
+  This project is licensed under the MIT License - see the [LICENSE.txt](https://github.com/rcaswin/Chatbot-Deployment-with-IBM-Cloud-Watson-Assistant/files/13229814/LICENSE.txt) 
+  file for more details.
+  
 ##References
   1. https://cloud.ibm.com/docs/assistant?topic=assistant-deploy-web-chat#:~:text=From%20the%20Integrations%20section%2C%20either,that%20was%20added%20for%20you.
   2. https://cloud.ibm.com/docs/assistant?topic=assistant-deploy-whatsapp
