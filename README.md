@@ -25,4 +25,5 @@
 
 ##Output of Integration of the chatbot with website, whatsapp, slack
   1. Website
+     ![web1](https://github.com/rcaswin/Chatbot-Deployment-with-IBM-Cloud-Watson-Assistant/assets/130204954/d4fef1d3-9e64-4441-a34b-6e98e4c6a44b)
      
